@@ -1,0 +1,7 @@
+D:\Projects\GenelProje\GenelProje\bin\Debug\GenelProje.exe.config
+D:\Projects\GenelProje\GenelProje\bin\Debug\GenelProje.exe
+D:\Projects\GenelProje\GenelProje\bin\Debug\GenelProje.pdb
+D:\Projects\GenelProje\GenelProje\obj\Debug\GenelProje.csprojAssemblyReference.cache
+D:\Projects\GenelProje\GenelProje\obj\Debug\GenelProje.csproj.CoreCompileInputs.cache
+D:\Projects\GenelProje\GenelProje\obj\Debug\GenelProje.exe
+D:\Projects\GenelProje\GenelProje\obj\Debug\GenelProje.pdb
