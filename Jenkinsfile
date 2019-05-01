@@ -11,9 +11,19 @@ pipeline {
                 echo 'Hello Test Ahmet .'
             }
         }
-         stage('Deploy') {
+         stage('Sonar Qube') {
+            steps {
+                echo 'Hello  Sonar Qube Ahmet .'
+            }
+        }
+		stage('Deploy') {
             steps {
                 echo 'Hello  Deploy Ahmet .'
+            }
+        }
+		stage('Archive') {
+            steps {
+                echo 'Hello  Archive Ahmet .'
             }
         }
     }
