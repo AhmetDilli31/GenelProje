@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                    powershell "& 'C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\MSBuild\\15.0\\Bin\\MsBuild.exe' D:\\Projects\\GenelProje\\GenelProje.sln"
+                    powershell "& 'C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\MSBuild\\15.0\\Bin\\MsBuild.exe' GenelProje.sln"
             }
         }
          stage('Test') {
