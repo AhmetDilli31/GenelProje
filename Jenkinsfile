@@ -8,22 +8,22 @@ pipeline {
         }
          stage('Test') {
             steps {
-                echo 'Hello Test Ahmet .'
+                echo 'Hello Test Ahmet.'
             }
         }
          stage('Sonar Qube') {
             steps {
-                echo 'Hello  Sonar Qube Ahmet .'
+                echo 'Hello  Sonar Qube Ahmet.'
             }
         }
 		stage('Deploy') {
             steps {
-                echo 'Hello  Deploy Ahmet .'
+                echo 'Hello  Deploy Ahmet.'
             }
         }
 		stage('Archive') {
             steps {
-                echo 'Hello  Archive Ahmet .'
+                echo 'Hello  Archive Ahmet.'
             }
         }
     }
